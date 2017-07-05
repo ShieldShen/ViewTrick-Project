@@ -1,0 +1,1 @@
+include ':app', ':viewtrick-compiler', ':viewtrick-annotations', ':viewtrick'
